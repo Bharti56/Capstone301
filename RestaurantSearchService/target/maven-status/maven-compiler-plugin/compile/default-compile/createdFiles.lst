@@ -1,0 +1,5 @@
+com\restaurantSearchService\repository\RestaurantRepository.class
+com\restaurantSearchService\controller\RestaurantController.class
+com\restaurantSearchService\service\RestaurantService.class
+com\restaurantSearchService\entity\RestaurantSearch.class
+com\restaurantSearchService\RestaurantSearchServiceApplication.class
